@@ -40,7 +40,7 @@
       
       <categories>
           
-          <category> cuda </category>
+          <category> 深度学习 </category>
           
       </categories>
       
@@ -157,9 +157,9 @@
       
         <tags>
             
-            <tag> mysql </tag>
-            
             <tag> python </tag>
+            
+            <tag> mysql </tag>
             
         </tags>
       
